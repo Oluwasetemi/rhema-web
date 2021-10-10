@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Typescript blog Starter`,
-    description: `A simple blog starter using Typescript in front & back side with eslint & prettier.`,
+    title: `Rhema Baptist Church`,
+    description: `The website of Rhema Baptist Church,Osogbo,  Osun State.`,
     author: {
-      name: 'Julien CARON',
+      name: 'Ojo Oluwasetemi',
       content: 'I like build some things using Javascript',
     },
     social: {
-      github: 'https://github.com/Junscuzzy',
+      github: 'https://github.com/Oluwasetemi',
     },
   },
   plugins: [
@@ -35,8 +35,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `rhema-baptist-church-osogbo`,
+        short_name: `rhema`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

@@ -31,6 +31,11 @@ const Footer: FC = () => {
           <Link href="https://material-ui.com/" color="inherit">
             @Material-ui
           </Link>
+          by
+          {` `}
+          <Link href="https://oluwasetemi.dev/" color="inherit">
+            👨🏽‍💻Oluwasetemi
+          </Link>
           ,
         </Typography>
       </Container>

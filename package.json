@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-material-typescript-starter",
+  "name": "rhema-web",
   "private": true,
-  "description": "A simple starter using Typescript & Material-ui",
+  "description": "A website for Rhema Baptist Church",
   "version": "0.1.0",
-  "author": "Julien CARON <juliencaron@protonmail.com>",
+  "author": "Ojo Oluwasetemi <setemiojo@gmail.com>",
   "keywords": [
     "gatsby",
     "typescript",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
